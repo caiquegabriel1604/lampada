@@ -1,18 +1,14 @@
 body{
     text-align: center;
-    
-
 }
 
 input{
     background-color: black;
     color: aliceblue;
     font-size: 1.5rem;
-    border: ;
+    border: 15px;
 }
 
-input{
+input:hover{
     color: black;
-    background-color: aliceblue;
-
-}
+    background-color: ali
